@@ -1,0 +1,1 @@
+clones/n704bcm/clone_info.mk
